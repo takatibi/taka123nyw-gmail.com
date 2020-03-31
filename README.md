@@ -1,7 +1,7 @@
 # <アプリ名>
 
 ## サイト概要
-旅の日記サイト。様々な地方や国へ旅をしに行った思い出を複数の写真と文字により、見える形で沢山の人達と共有し合えるサイト。
+旅の日記サイト。様々な地方や国へ旅をしに行った思い出を複数の写真と文字により、見える形で沢山の人達と共有でき、マッチングも出来るサイト。
 
 ### サイトテーマ
 旅の思い出を写真と文字により、見える形で沢山の人達と共有しあえるサイト
@@ -18,6 +18,10 @@
 ## 設計書
 
 ### 機能一覧
-<https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1M3ljpXO-de5jVga6BxVg149zVSoQqvP9D-fEKj-7Gew/edit#gid=0
+https://docs.google.com/spreadsheets/d/1e7RC_nAv_PFj4aq1cBnw-h5KPHGvL15IAlIPrFDniP8/edit#gid=0
+
+
+
 
 
